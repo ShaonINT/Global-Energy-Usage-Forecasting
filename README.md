@@ -1,10 +1,11 @@
 # Global Energy Consumption Forecasting (2020-2040) Using LSTM and ARIMA
 
-### Project Overview
+## Project Overview
 
 This project demonstrates the application of machine learning and statistical models to forecast energy consumption across multiple countries and energy sources. By combining deep learning (LSTM) and ARIMA, it addresses challenges like limited data availability, ensuring accurate and reliable predictions. The dataset contains the global energy usage of different countries till 2019. This project deployed LSTM model for the time-series forecasting. LSTMs (Long Short-Term Memory) are considered excellent for time series analysis because they can effectively capture long-term dependencies within sequential data, meaning they can remember relevant information from previous time steps, making them ideal for predicting future values based on past trends and patterns in time series data.
 
-Key Features
+### Key Features
+
 - **Hybrid Modeling Approach**:
   - **LSTM**: Used for datasets with adequate historical data, leveraging deep learning for time series forecasting.
   - **ARIMA**: Employed for datasets with limited historical data, showcasing flexibility and adaptability.

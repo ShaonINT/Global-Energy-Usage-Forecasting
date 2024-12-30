@@ -42,9 +42,8 @@ Project Workflow
 Visualization Examples
 ### Historical vs. Forecasted Energy Consumption
 
-`![clipboard.png](../../../../private/var/folders/n7/7gnxsqp11cnf8klwqrz0twb40000gn/T/clipboard.png)`
+![output](https://github.com/user-attachments/assets/62cbe882-26df-4734-be14-2f246203537f)
 
-*Sample plot comparing historical and predicted oil consumption for the UK.*
 
 ### Results
 - **Hybrid Model Performance**: LSTM achieved low RMSE for datasets with sufficient data. ARIMA ensured reasonable accuracy for sparse datasets.
